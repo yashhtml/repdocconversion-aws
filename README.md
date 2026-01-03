@@ -19,7 +19,7 @@ This project automatically converts uploaded documents into text using a serverl
 - JPG
 - PNG
 - Small PDFs
-- 
+  
 ## 💡 Key Features
 - Fully serverless
 - Event-driven architecture
